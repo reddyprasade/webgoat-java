@@ -1,6 +1,6 @@
 Auth:
-  project_token: "2b7b132e-3353-426e-a1bb-d10ac8ec1259"
-  customer_token:  "4941f85a-5453-4f94-9247-d5565b4bd116"
+  project_token: "b07830b5-3604-411c-9552-2229076fb7a1"
+  customer_token:  "1f3dc7b3-cb4e-4eb9-b5ee-c780947f12e3"
 
 SAST:
   language: "java-snyk-sast"
