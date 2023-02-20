@@ -8,8 +8,8 @@ SAST:
 SCA:
   language: "java-snyk-sca"
 
-DAST:
-  type: "WEB-ADV" ## API, WEB, WEB-ADV
-  URL: "http://devapi.boman.ai" 
+# DAST:
+#   type: "WEB-ADV" ## API, WEB, WEB-ADV
+#   URL: "http://devapi.boman.ai" 
 
 Secret_Scan: True
